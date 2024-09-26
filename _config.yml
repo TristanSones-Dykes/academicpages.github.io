@@ -12,7 +12,7 @@ title                    : "Tristan Sones-Dykes"
 title_separator          : "-"
 name                     : &name "Tristan Sones-Dykes"
 description              : &description "personal description"
-url                      : "tristansonesdykes.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://tristansonesdykes.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "TristanSones-Dykes/academicpages.github.io"
 
